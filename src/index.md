@@ -1,4 +1,3 @@
-
 Hey there!
 
 My name is Worthyox and I am passionate about computers, Thinkpads, Linux/Unix and other stuff.
