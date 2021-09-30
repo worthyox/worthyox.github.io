@@ -17,16 +17,6 @@
 <pubDate>Thu, 30 Sep 2021 11:10:26 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="style.css">
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
-  <script src="https://kit.fontawesome.com/93866eaaa9.js" crossorigin="anonymous"></script>
-  <title>Worthyox's Blog</title>
-</head>
 <body class="light-mode">
   <nav class="menu">
   <div class="nav-left">
@@ -50,34 +40,6 @@
 <p>September 30, 2021</p>
 <p>This is an article to test if RSS is working.</p>
 </article>
-<script>
-// Get the theme toggle input
-const currentTheme = localStorage.getItem("theme");// If the current local storage item can be found
-// Function that will switch the theme based on the if the theme toggle is checked or not
-function switchTheme() {
-  if (document.documentElement.getAttribute("data-theme") === "dark") {
-    document.documentElement.setAttribute("data-theme", "light");
-    // Set the user's theme preference to dark
-    localStorage.setItem("theme", "light");
-  } else {
-    document.documentElement.setAttribute("data-theme", "dark");
-    // Set the user's theme preference to light
-    localStorage.setItem("theme", "dark");
-  }
-}
-// Get the current theme from local storage
-if (currentTheme) {
-        // Set the body data-theme attribute to match the local storage item
-        document.documentElement.setAttribute("data-theme", currentTheme);
-        if (currentTheme === "dark") {
-                document.documentElement.setAttribute("data-theme", "dark");
-       }
-}
-if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        console.log('user prefers dark scheme, going dark');
-        document.documentElement.setAttribute("data-theme", "dark");
-        }
-</script>
 ]]></description>
 </item>
 
