@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-<title>Worthyox's Blog</title>
-<description>Worthyox's RSS Blog.</description>
+<title>Steve's Blog</title>
+<description>Steve's RSS Blog.</description>
 <language>en-us</language>
 <link>http://worthyox.github.io/rss.xml</link>
 <atom:link href="http://worthyox.github.io/rss.xml" rel="self" type="application/rss+xml" />
