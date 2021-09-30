@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/css" href="style.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
@@ -12,20 +11,10 @@
 <!-- LB -->
 
 <item>
-<title>  Worthyox's Blog (Updated)</title>
-<guid>https://worthyox.gitgub.io/rss-test.html#210930104338</guid>
-<link>https://worthyox.gitgub.io/rss-test.html</link>
-<pubDate>Thu, 30 Sep 2021 10:43:45 -0400</pubDate>
-<description><![CDATA[New updates to https://worthyox.gitgub.io/rss-test.html
-]]></description>
-</item>
-
-
-<item>
 <title>  Worthyox's Blog</title>
 <guid>https://worthyox.gitgub.io/rss-test.html</guid>
 <link>https://worthyox.gitgub.io/rss-test.html</link>
-<pubDate>Wed, 29 Sep 2021 23:45:02 -0400</pubDate>
+<pubDate>Thu, 30 Sep 2021 10:50:14 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,7 +27,7 @@
   <script src="https://kit.fontawesome.com/93866eaaa9.js" crossorigin="anonymous"></script>
   <title>Worthyox's Blog</title>
 </head>
-<body class="dark-mode">
+<body class="light-mode">
   <nav class="menu">
   <div class="nav-left">
     <ul>
@@ -58,7 +47,8 @@
 </nav>
 <article>
 <h1 id="RSS%20Test">RSS Test</h1>
-<p>This is an article to a test if RSS is working.</p>
+<p>September 30, 2021</p>
+<p>This is an article to test if RSS is working.</p>
 </article>
 <script>
 // Get the theme toggle input
