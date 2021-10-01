@@ -1,5 +1,6 @@
 Contact
-===
+
+---
 
 # Digital Contact Information
 
