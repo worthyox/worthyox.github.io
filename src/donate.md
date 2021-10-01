@@ -22,5 +22,5 @@ Wo4VWkAQBFHR9W5DqHHyZbKwc4VD7fNYdLso3Fhv57fTNjJijVWT8oFDdhBdqUpYju3zt48cYvMHCJhW
 
 ## Other Methods
 
-- ![Paypal](https://worthyox.github.io/pix/paypal.svg =25x25) [Paypal](https://www.paypal.com/paypalme/worthyox) to `steve.7vdcg@simplelogin.co`
-- ![Librapay](https://worthyox.github.io/pix/liberapay.svg =25x25) [Librapay](https://liberapay.com/worthyox/)
+- ![Paypal](https://worthyox.github.io/pix/paypal.svg =15x15) [Paypal](https://www.paypal.com/paypalme/worthyox) to `steve.7vdcg@simplelogin.co`
+- ![Librapay](https://worthyox.github.io/pix/liberapay.svg =15x15) [Librapay](https://liberapay.com/worthyox/)
