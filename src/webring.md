@@ -1,7 +1,5 @@
 # Webring
 
----
-
 Here are some cool websites, friends and other things!
 
 ### ![LandChad.net](https://worthyox.github.io/pix/chad.gif =35x35) [LandChad.net](https://landchad.net/)
@@ -14,7 +12,7 @@ Here are some cool websites, friends and other things!
 
 ### ![Wolfgang](https://worthyox.github.io/pix/notthebee.png =35x35) [Wolfgang](https://notthebe.ee/)
 
-### ![](https://worthyox.github.io/pix/luke.webp =35x35) [Luke Smith](https://lukesmith.xyz/)
+### ![](https://worthyox.github.io/pix/luke.png =35x35) [Luke Smith](https://lukesmith.xyz/)
 
 ### ![](https://worthyox.github.io/pix/ =35x35) [DistroTube](https://distro.tube/)
 
