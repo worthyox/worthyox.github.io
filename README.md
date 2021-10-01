@@ -1,3 +1,3 @@
-# v1
+# v2
 
-first iteration of my personal website
+Second iteration of my personal website
