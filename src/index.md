@@ -6,4 +6,6 @@ On this website I usually post guides and tutorials but who knows, maybe it’ll
 
 ## Articles
 
-[Testing out lb](https://worthyox.github.io/testing-out-lb.html) - September 30, 2021
+2021 Sep 30 – [Software Recommendations](https://worthyox.github.io/software-recommendations.html)
+
+2021 Sep 29 – [Testing out lb](https://worthyox.github.io/testing-out-lb.html)
