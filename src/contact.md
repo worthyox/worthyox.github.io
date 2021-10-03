@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-![apu-band](/pix/apu_band.gif)
+<a href="/pix/apu_band.gif">apu-band</a>
 </p>
 
 ## Digital Contact Information
