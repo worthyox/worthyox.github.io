@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: worthyox.github.io
+Token: 8c87e9d14ab12bcfe07c1294323e4497cf625d089b62dc15c8d86ac390d53031
