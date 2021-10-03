@@ -2,6 +2,8 @@
 
 ---
 
+![apu-band](/pix/apu_band.gif)
+
 ## Digital Contact Information
 
 - [`steve.7vdcg@simplelogin.co`](mailto:steve.7vdcg@simplelogin.co)
