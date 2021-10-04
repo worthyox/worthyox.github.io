@@ -12,9 +12,9 @@ trying to remove distractions and focus on things that matter.
 
 ## Recent Blog Posts
 
-- 2021 Oct 1 – [Lots of People on the Webring!](https://worthyox.github.io/lots-of-ppl-on-the-webring.html)
+- 2021 Oct 3 – [Software Recommendations](https://worthyox.github.io/software-recommendations.html)
 
-- 2021 Sep 30 – [Software Recommendations](https://worthyox.github.io/software-recommendations.html)
+- 2021 Oct 1 – [Lots of People on the Webring!](https://worthyox.github.io/lots-of-ppl-on-the-webring.html)
 
 - 2021 Sep 29 – [Testing out lb](https://worthyox.github.io/testing-out-lb.html)
 

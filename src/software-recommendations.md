@@ -138,4 +138,4 @@ image viewer and [dmenu](https://tools.suckless.org/dmenu/) as an application me
 
 > *configs to all the programs I mentioned in this article and more are hosted on my [GitHub](https://github.com/worthyox) page*
 
-<small><a href="blog.html">← Home</a></small>
+<small><a href="index.html">← Home</a></small>

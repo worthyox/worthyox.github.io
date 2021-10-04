@@ -8,4 +8,4 @@ Much better than JavaScript backends or a LEMP server!
 This also has an RSS feed: [https://worthyox.github.io/rss.xml](https://worthyox.github.io/rss.xml). Subscribe to it to recieve
 all my blog posts!
 
-<small><a href="blog.html">← Home</a></small>
+<small><a href="index.html">← Home</a></small>

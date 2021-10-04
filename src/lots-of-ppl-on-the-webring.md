@@ -13,4 +13,4 @@ friends there, and maybe some social media links too.
 Anyways, I hope whoever's subscribed to this RSS feed keeps enjoying these new
 articles! I have tons more where this one came from!
 
-<small><a href="blog.html">← Home</a></small>
+<small><a href="index.html">← Home</a></small>
