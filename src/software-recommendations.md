@@ -51,6 +51,10 @@ with best software availability. For the elitists out there, OpenBSD is the way 
 it emphasizes portability, standardization, correctness, proactive security and
 integrated cryptography.
 
+<center>
+<img src="pix/gif/getbsod.gif" alt="Get BSD">
+</center>
+
 **I'm personally planning to embark on a journey to BSD paradise...**
 
 ## Terminal Emulator

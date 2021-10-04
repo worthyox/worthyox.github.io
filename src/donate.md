@@ -26,6 +26,12 @@ bc1qyvkzw7hrtp9ecxd2pa3w7p5dfg09tv6jfrs0df
 ```
 
 
+<center>
+<img src="pix/gif/best_viewed_with_eyes.gif" alt="Best Viewed With Eyes">
+<img src="pix/gif/icra.gif" alt="ICRA">
+</center>
+
+
 ## Other Methods
 
 - ![Paypal](https://worthyox.github.io/pix/paypal.svg =15x15) [Paypal](https://www.paypal.com/paypalme/worthyox) to `steve.7vdcg@simplelogin.co`

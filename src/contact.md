@@ -15,6 +15,11 @@
 I'm not on Facebook, I'm not on Twitter, and I'm not on Reddit.
 
 
+<center>
+<img src="pix/gif/mail.gif" alt="Internet Free">
+</center>
+
+
 ## Tech support
 
 For tech support, do not contact me, use [GitHub](https://github.com/worthyox).
