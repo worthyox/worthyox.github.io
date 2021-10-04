@@ -7,19 +7,22 @@
 <language>en-us</language>
 <link>http://worthyox.github.io/rss.xml</link>
 <atom:link href="http://worthyox.github.io/rss.xml" rel="self" type="application/rss+xml" />
+<image>
+<title>Steve's Blog</title>
+<url>https://worthyox.github.io/favicon.png</url>
+<link>https://worthyox.github.io/rss.xml</link>
+</image>
 
 <!-- LB -->
 
 <item>
-<title>  Steve's Blog</title>
+<title>Software Recommendations<</title>
 <guid>https://worthyox.github.io/software-recommendations.html</guid>
 <link>https://worthyox.github.io/software-recommendations.html</link>
 <pubDate>Sun, 03 Oct 2021 20:50:02 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <article>
-<h1 id="Software%20Recommendations">Software Recommendations</h1>
-<p>September 30, 2021</p>
 <p>This article contains the software I use and recommend. Most of it
 requires little to no elite knowledge of GNU&#47;Linux or software in general;
 not to say learning is bad&#8230;</p>
@@ -135,15 +138,13 @@ image viewer and <a href="https://tools.suckless.org/dmenu/">dmenu</a> as an app
 
 
 <item>
-<title>  Steve's Blog</title>
+<title>Lots of people on the Webring!</title>
 <guid>https://worthyox.github.io/lots-of-ppl-on-the-webring.html</guid>
 <link>https://worthyox.github.io/lots-of-ppl-on-the-webring.html</link>
 <pubDate>Fri, 01 Oct 2021 17:40:42 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <article>
-<h1 id="Lots%20of%20people%20on%20the%20Webring!">Lots of people on the Webring!</h1>
-<p>October 1, 2021</p>
 <p>Alright, I know, the <a href="https://worthyox.github.io/webring.html">&#8220;webring&#8221;</a> is
 not actually a proper webring, just a list of poorly-linked websites, but I had
 no idea what to name the page otherwise.</p>
@@ -160,15 +161,13 @@ articles! I have tons more where this one came from!</p>
 
 
 <item>
-<title>  Steve's Blog</title>
+<title>Testing out lb...</title>
 <guid>https://worthyox.github.io/testing-out-lb.html</guid>
 <link>https://worthyox.github.io/testing-out-lb.html</link>
 <pubDate>Thu, 30 Sep 2021 12:14:14 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <article>
-<h1 id="Testing%20out%20lb&amp;#8230;">Testing out lb&#8230;</h1>
-<p>September 30, 2021</p>
 <p>Hey! Thanks for checking out my blog. It&#8217;s powered by Luke Smith&#8217;s lb, a minimalist
 &#8220;luke&#8217;s blog&#8221; or &#8220;less bloat&#8221; script that essentially generates a static website.
 Much better than JavaScript backends or a LEMP server!</p>

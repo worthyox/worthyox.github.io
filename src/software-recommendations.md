@@ -1,5 +1,5 @@
 # Software Recommendations
-September 30, 2021
+October 3, 2021
 
 This article contains the software I use and recommend. Most of it
 requires little to no elite knowledge of GNU/Linux or software in general;
