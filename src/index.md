@@ -7,8 +7,8 @@ On this website I usually post guides, tutorials, side projects, and thoughts
 on software development. It may not seem like a lot, but that's by design. I'm
 trying to remove distractions and focus on things that matter.
 
-<img src="pix/gif/worker.gif" style="max-width: 50%;margin: 4%;display: block;" alt="Under construction..." title="Under construction...">
-
+<img src="pix/gif/tower.gif" style="float: right;" alt="Tower" title="Put the desired urls into your RSS reader of choice to get my updates.">
+<img src="pix/gif/worker.gif" style="float: right;" alt="Under construction..." title="Under construction...">
 
 ## Recent Blog Posts
 
@@ -25,8 +25,6 @@ nuanced and different entries such as
 [technical recommendations](https://worthyox.github.io/software-recommendations.html).
 You can also subscribe to my blog's [RSS](https://worthyox.github.io/rss.xml)
 feed if you wish.
-
-<img src="pix/gif/tower.gif" style="float: right;" alt="Tower" title="Put the desired urls into your RSS reader of choice to get my updates.">
 
 
 ## *[Here's some other sites!](https://worthyox.github.io/webring.html)*
