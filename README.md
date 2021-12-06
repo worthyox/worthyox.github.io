@@ -1,7 +1,8 @@
-# v2
+# What is this?
 
-Second iteration of my personal website
+This is the source code to my [personal website](https://hghann.github.io/).
 
-<p align="center">
-    <img width="600" alt="My website" src="https://github.com/hi-sg/hi-sg.github.io/blob/master/pix/index.png">
-</p>
+This website utilizes a modified version of Luke Smith's
+[lb](https://github.com/lukesmithxyz/lb). This site's
+version doesn't have a rolling blog page. It links individual pages in the
+RSS feed.
