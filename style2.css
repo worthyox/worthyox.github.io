@@ -15,15 +15,19 @@ html {
 	--dark_grey: #999;
 }
 [data-theme="dark"] {
-	--bg: #131615;
-	--fg: #fefefe;
-	--link: #4d7dcb;
+	--bg: #111;
+	--fg: #eee;
+	--h1_color: lightblue;
+	--h2_color: goldenrod;
+	--h3_color: tomato;
+	--h4_color: deepskyblue;
+	--link: turquoise;
 	--link_v: #99a5d3;
-	--link_h: #4c7ecf;
-	--bg_grey: #333;
+	--link_h: greenyellow;
+	--limish: #0e0 ;
+	--bg_grey: #222;
 	--dark_grey: #333;
 }
-
 
 .logo {
 	max-height: 30px
@@ -31,7 +35,7 @@ html {
 
 body {
 	color: var(--fg);
-	font-family: 'Open Sans', sans-serif;
+	font-family: sans-serif;
 	font-size: 12px;
 	line-height: 1.5em;
 	padding: 1em;
@@ -43,10 +47,6 @@ body {
 a {
 	color: var(--link);
 	text-decoration: none;
-}
-
-a:visited {
-	color: var(--link_v);
 }
 
 a:hover {
@@ -94,18 +94,22 @@ h6 {
 
 h1 {
 	font-size: 1.5em;
+	color: var(--h1_color);
 }
 
 h2 {
 	font-size: 1.2em;
+	color: var(--h2_color);
 }
 
 h3 {
 	font-size: 1em;
+	color: var(--h3_color);
 }
 
 h4 {
 	font-size: 0.9em;
+	color: var(--h4_color);
 }
 
 h5 {
@@ -128,7 +132,7 @@ code,
 kbd,
 samp {
 	font-family: 'Fira Code', monospace;
-	font-size: 0.98em;
+	font-size: 0.95em;
 }
 
 code {
@@ -136,14 +140,19 @@ code {
 	white-space: pre-wrap;
 	word-wrap: break-word;
 	background: var(--bg_grey);
-	color: var(--fg);
+	color: var(--limish);
 	padding: 3px;
 	border-radius: 3px;
 }
 pre > code {
 	display: block;
-	padding: 10px 15px;
+	border: 1px solid var(--limish) ;
+	border-radius: 20px ;
+	padding: 1em ;
+	margin: 1em ;
+	white-space: pre-wrap;
 }
+
 b,
 strong {
 	font-weight: bold;
